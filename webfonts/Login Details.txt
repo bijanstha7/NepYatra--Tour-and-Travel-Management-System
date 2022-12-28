@@ -1,0 +1,22 @@
+Real State Manage Management System
+
+
+**Admin Login Details**
+
+Username: admin
+Password: 12345
+
+**User Login Details**
+
+Username: Bijan@gmail.com
+Password: 12345
+
+**Agent Login Details**
+
+Username: admin
+Password: 12345
+
+**Builder Login Details**
+
+Username: admin
+Password: 12345
